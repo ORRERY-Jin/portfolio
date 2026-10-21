@@ -58,7 +58,8 @@
 
   languageButton.addEventListener('click', () => applyLanguage(currentLanguage === 'en' ? 'zh' : 'en'));
 
-  fetch('translations.zh.json')
+  const translationUrl = new URL('translations.zh.json', document.currentScript.src);
+  fetch(translationUrl)
     .then((response) => {
       if (!response.ok) throw new Error('Translation file could not be loaded');
       return response.json();
@@ -71,7 +72,8 @@
       languageButton.disabled = false;
     })
     .catch(() => {
-      languageButton.disabled = true;
-      languageButton.title = 'Language translations are unavailable';
+      translations = { Projects: '项目', Collaborations: '合作项目', 'Role: Designer': '角色：设计师', 'Role: Assistant': '角色：助理', 'Role: Collaborative Designer': '角色：合作设计师' };
+      languageButton.disabled = false;
+      languageButton.title = 'Some translations may be unavailable';
     });
 })();

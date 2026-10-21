@@ -1,0 +1,132 @@
+{
+  "source": "Squarespace WordPress export",
+  "assets_total": 314,
+  "assets_present": 314,
+  "assets_downloaded_this_run": 0,
+  "assets_cached_this_run": 314,
+  "asset_failures": [],
+  "project_entries": [
+    {
+      "title": "Project 08:Rabbit Ranran",
+      "slug": "project-08rabbit-ranran",
+      "date": "2023-03-04"
+    },
+    {
+      "title": "Project 07: The Sunken Bell",
+      "slug": "project-06-the-sunken-bell",
+      "date": "2022-10-12"
+    },
+    {
+      "title": "Project 06: Interstellar",
+      "slug": "project-07interstellar",
+      "date": "2021-08-28"
+    },
+    {
+      "title": "Project 05: Dead Dog In A Suitcase",
+      "slug": "project-05-dead-dog-in-a-suitcase",
+      "date": "2021-05-27"
+    },
+    {
+      "title": "Project 04: Clown Rio",
+      "slug": "04-clownrio",
+      "date": "2021-04-08"
+    },
+    {
+      "title": "Mini Project：performance-Labels",
+      "slug": "2rbdw0rtzm2a0mn72lzvtih0q38xu2",
+      "date": "2020-12-09"
+    },
+    {
+      "title": "Project 03: The Great Gatsby",
+      "slug": "03-thegreatgatsby",
+      "date": "2019-05-27"
+    },
+    {
+      "title": "Project 01: Macbeth",
+      "slug": "01-macbeth",
+      "date": "2019-05-15"
+    },
+    {
+      "title": "Project 02: The Peony Pavilion",
+      "slug": "02-thepeonypavilion",
+      "date": "2019-05-15"
+    },
+    {
+      "title": "Mini Project : Gemini",
+      "slug": "miniproject-gemini",
+      "date": "2019-04-24"
+    },
+    {
+      "title": "Project ：Song of the Assassins",
+      "slug": "project-song-of-the-assassins",
+      "date": "2017-10-10"
+    },
+    {
+      "title": "Project ：Narayama bushikō",
+      "slug": "project-narayama-bushik",
+      "date": "2017-07-08"
+    }
+  ],
+  "blog_entries": [
+    {
+      "title": "One project in my portfolio: Macbeth",
+      "slug": "8t7vinm0pynttm07i35cyembd3jlz8",
+      "date": "2022-10-14"
+    },
+    {
+      "title": "Which artists and works of art Jay paid tribute to in “Greatest Works of Arts”",
+      "slug": "which-artists-and-works-of-art-jay-paid-tribute-to-in-greatest-works-of-arts",
+      "date": "2022-07-06"
+    },
+    {
+      "title": "The Perceiver of Light",
+      "slug": "the-perceiver-of-light",
+      "date": "2021-04-05"
+    },
+    {
+      "title": "Navigating The Unknown",
+      "slug": "blog-navigatingtheunknown",
+      "date": "2021-01-09"
+    },
+    {
+      "title": "End Of A Century",
+      "slug": "blog-endofacentury",
+      "date": "2020-12-28"
+    },
+    {
+      "title": "How Drama Develops In The Context Of Hybridization",
+      "slug": "how-drama-develops-in-the-context-of-hybridization",
+      "date": "2020-09-05"
+    },
+    {
+      "title": "Reflection on the design process for Miss Julie",
+      "slug": "reflection-on-the-design-process-for-miss-julie",
+      "date": "2020-08-13"
+    },
+    {
+      "title": "Out of the Maze",
+      "slug": "blog-outofthemaze",
+      "date": "2020-06-26"
+    },
+    {
+      "title": "Clown Rio",
+      "slug": "clown-rio",
+      "date": "2019-07-09"
+    },
+    {
+      "title": "Analysis on the Costumes’ Contribution to Characters and Narrative in Memoirs of a Geisha",
+      "slug": "an-analysis-of-the-contribution-of-costume-to-the-development-of-character-and-narrative-in-memoirs-of-a-geisha",
+      "date": "2016-07-06"
+    }
+  ],
+  "drafts": [
+    {
+      "title": "Untitled",
+      "slug": "m8qvcgct6lh1n75lkyjm4ti9pp2w5d"
+    },
+    {
+      "title": "Project 05: Miss Julie",
+      "slug": "project-05-miss-julie"
+    }
+  ]
+}
